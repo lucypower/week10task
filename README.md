@@ -2,9 +2,9 @@
 
 Lunch is usually the first day of the meal for me, and I usually have either a chesse bap with chicken slices, or spring rolls with pepper sticks.
 
-[My Linkedin Profile] (https://www.linkedin.com/in/lucy-power-4a35a01b9/)
+[My Linkedin Profile](https://www.linkedin.com/in/lucy-power-4a35a01b9/)
 
-![Image of Kimonotocat] (https://octodex.github.com/Kimonotocat/)
+![Image of Kimonotocat](https://octodex.github.com/Kimonotocat/)
 
 
 ## My favourite games :heart_eyes:
