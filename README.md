@@ -8,7 +8,7 @@ Lunch is usually the first day of the meal for me, and I usually have either a c
 
 ### Octocat Image
 
-![Image of Kimonotocat](https://octodex.github.com/Kimonotocat/)
+![Image of Kimonotocat](https://github.com/lucypower/week10task/blob/main/kimonotocat.png)
 
 
 ## My favourite games :heart_eyes:
