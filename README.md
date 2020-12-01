@@ -21,9 +21,9 @@ Lunch is usually the first day of the meal for me, and I usually have either a c
 
 ## ProDev Checklist
 
-[X] Think of topic for report
-[X] Week 10 README file task
-[ ] Complete Assignment 1
+[X]Think of topic for report
+[X]Week 10 README file task
+[ ]Complete Assignment 1
 
 ## GEC Odds and Evens Task Sample
 
