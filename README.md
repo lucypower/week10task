@@ -21,9 +21,9 @@ Lunch is usually the first day of the meal for me, and I usually have either a c
 [X] Week 10 README file task
 [ ] Complete Assignment 1
 
-## GEC Odds and Evens Task
+## GEC Odds and Evens Task Sample
 
-'''C++
+```C++
 #include <iostream>
 
 int number;
@@ -69,4 +69,4 @@ int main()
 	outputResults();
 
 	return 0;
-}'''
+}```
